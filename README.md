@@ -38,6 +38,7 @@ Exchanges with support for Lightning Network
 - [SimpleFX](https://simplefx.com/bitcoin-lightning-network) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets))
 - [BitSTAMP](https://bitstamp.net/) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- [Cash out through Zebedee](https://blog.bitstamp.net/post/how-to-use-the-new-lightning-network-bridge-for-instant-bitcoin-top-ups-in-crypto-gaming)
 - [xSats](https://xsats.com), when operations resume, is planning on LN ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) support
+- [Lightning Pay](https://lightningpay.nz) ([⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)) <-- New Zealand
 
 **P2P Trading Platforms with support for Lightning network [⚡](https://www.lopp.net/lightning-information.html#desktop_wallets)**
 
